@@ -47,3 +47,4 @@ Resources for "completing the map" in Great Smoky Mountains National Park.
 - https://en.wikipedia.org/wiki/Chinese_postman_problem
 - https://github.com/brooksandrew/postman_problems
 - https://web.archive.org/web/20210514003240/https://www-m9.ma.tum.de/graph-algorithms/directed-chinese-postman/index_en.html
+- https://en.wikipedia.org/wiki/Tobler%27s_hiking_function
