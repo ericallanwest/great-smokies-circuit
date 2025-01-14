@@ -16,8 +16,11 @@ Resources for "completing the map" in Great Smoky Mountains National Park.
 - https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/nancy_east_fkt_10.geojson
 - https://www.gaiagps.com/datasummary/folder/2fdf7a17-4d4c-4eca-a9fe-225c9c0a42a0/
 
-# 900 Miler Club - Map Completions
+# Efficient Map Completions
 - https://smhclub.org/900-Miler-Club
+
+#### Matthew Kirk - Great Smoky Postman (December 2019 to October 2020)
+- https://matthewkirk.blogspot.com/2020/10/great-smoky-postman-summary.html
 
 #### Eric West - Circuit (2019-2022)
 - https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map
