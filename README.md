@@ -17,7 +17,6 @@ Resources for "completing the map" in Great Smoky Mountains National Park.
 - https://www.gaiagps.com/datasummary/folder/2fdf7a17-4d4c-4eca-a9fe-225c9c0a42a0/
 
 # Efficient Map Completions
-- https://smhclub.org/900-Miler-Club
 
 #### Matthew Kirk - Great Smoky Postman (December 2019 to October 2020)
 - https://matthewkirk.blogspot.com/2020/10/great-smoky-postman-summary.html
@@ -37,12 +36,13 @@ Resources for "completing the map" in Great Smoky Mountains National Park.
 - https://completingthemap.com/
 
 # Datasets & Maps
+- https://smhclub.org/900-Miler-Club
 - https://grsm-nps.opendata.arcgis.com/search?collection=Dataset
 - https://arcg.is/PqW9W
 - https://www.outragegis.com/grsm/
 - https://store.avenza.com/products/npsusgs-great-smoky-mountains-national-park-2016-topographic-map-bundle-great-smoky-mountains-national-park-map
 
-# Routing/Optimization
+# Routing / Optimization
 - https://en.wikipedia.org/wiki/Arc_routing
 - https://en.wikipedia.org/wiki/Chinese_postman_problem
 - https://github.com/brooksandrew/postman_problems
