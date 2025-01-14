@@ -1,7 +1,7 @@
 # great-smokies-circuit
 Resources for "completing the map" in Great Smoky Mountains National Park.
 
-# Fastest Known Times (FKTs)
+# Current Fastest Known Times (FKTs)
 - https://fastestknowntime.com/route/great-smoky-mountains-national-park-900-nc-tn
 
 #### Jeff Woody - Supported FKT (July 23 to August 25, 2020)
@@ -22,16 +22,19 @@ Resources for "completing the map" in Great Smoky Mountains National Park.
 #### Matthew Kirk - Great Smoky Postman (December 2019 to October 2020)
 - https://matthewkirk.blogspot.com/2020/10/great-smoky-postman-summary.html
 
-#### Eric West - Circuit (2019-2022)
-- https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map
-- https://docs.google.com/spreadsheets/d/1ACHSmas1CtTb6CJ1RvFlAs-pkRSpCG2Y7gnv6m_B_QA/edit?usp=sharing
-- https://github.com/ericallanwest/great-smokies-circuit/blob/811641e0c99a4b824dcee5040ced33c9f9aac5d4/eric_west_circuit.geojson
-- https://completingthemap.com/
+#### Benny Braden (October to November 2017)
+- https://www.wbir.com/article/news/local/harriman-man-beats-own-record-for-fastest-smoky-mountain-900-mile-hike/51-494652285
 
 #### Elizabeth Etnier - Day Hiker’s Guide to All the Trails in the Smoky Mountains (Book)
 - https://public.tableau.com/app/profile/ericallanwest/viz/DayHikersGuidetoAlltheTrailsintheSmokyMountainsEtnier/Etnier_Map
 - https://docs.google.com/spreadsheets/d/1CpX0-61aN38rtjumSJ0_Rv_m-ckZb9kNNl_bq9xX3vU/edit?usp=sharing
 - http://smokymountainshiking.com/
+
+#### Eric West - Circuit (2019-2022)
+- https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map
+- https://docs.google.com/spreadsheets/d/1ACHSmas1CtTb6CJ1RvFlAs-pkRSpCG2Y7gnv6m_B_QA/edit?usp=sharing
+- https://github.com/ericallanwest/great-smokies-circuit/blob/811641e0c99a4b824dcee5040ced33c9f9aac5d4/eric_west_circuit.geojson
+- https://completingthemap.com/
 
 # Datasets & Maps
 - https://grsm-nps.opendata.arcgis.com/search?collection=Dataset
