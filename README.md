@@ -35,3 +35,8 @@ Resources for "completing the map" in Great Smoky Mountains National Park.
 - https://arcg.is/PqW9W
 - https://www.outragegis.com/grsm/
 - https://store.avenza.com/products/npsusgs-great-smoky-mountains-national-park-2016-topographic-map-bundle-great-smoky-mountains-national-park-map
+
+# Routing/Optimization
+- https://en.wikipedia.org/wiki/Arc_routing
+  - https://en.wikipedia.org/wiki/Chinese_postman_problem
+  - https://github.com/brooksandrew/postman_problems
