@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1CpX0-61aN38rtjumSJ0_Rv_m-ckZb9kNNl_bq9xX
 http://smokymountainshiking.com/
 
 # Datasets & Maps
-https://grsm-nps.opendata.arcgis.com/search?collection=Dataset&q=Trails
+https://grsm-nps.opendata.arcgis.com/
 https://arcg.is/PqW9W
 https://www.outragegis.com/grsm/
 https://store.avenza.com/products/npsusgs-great-smoky-mountains-national-park-2016-topographic-map-bundle-great-smoky-mountains-national-park-map
