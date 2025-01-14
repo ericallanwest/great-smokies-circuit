@@ -38,5 +38,6 @@ Resources for "completing the map" in Great Smoky Mountains National Park.
 
 # Routing/Optimization
 - https://en.wikipedia.org/wiki/Arc_routing
-  - https://en.wikipedia.org/wiki/Chinese_postman_problem
-  - https://github.com/brooksandrew/postman_problems
+- https://en.wikipedia.org/wiki/Chinese_postman_problem
+- https://github.com/brooksandrew/postman_problems
+- https://web.archive.org/web/20210514003240/https://www-m9.ma.tum.de/graph-algorithms/directed-chinese-postman/index_en.html
