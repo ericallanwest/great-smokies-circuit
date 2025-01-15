@@ -1,33 +1,33 @@
-# great-smokies-circuit
-Resources for "completing the map" in Great Smoky Mountains National Park.
+# GSMNP 900 Miler Information
+Resources for "completing the map" of all official hiking trails in Great Smoky Mountains National Park.
 
-# Current Fastest Known Times (FKTs)
-- https://fastestknowntime.com/route/great-smoky-mountains-national-park-900-nc-tn
+# Fastest Known Times (FKTs)
+- [GSMNP 900 @ fastestknowntime.com](https://fastestknowntime.com/route/great-smoky-mountains-national-park-900-nc-tn)
 
 #### Nancy East & Chris Ford - Supported FKT (September 4 to October 3, 2020)
 - [Gaia GPS Tracking](https://www.gaiagps.com/datasummary/folder/2fdf7a17-4d4c-4eca-a9fe-225c9c0a42a0/)
-- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-NancyEastandChrisFord/East_Ford_FKT_Map)
-- [Cue Sheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1yewy0VBL8va5r0qMwRLIukVofc1cK5Sm7-bl1nUeyAg/edit?usp=sharing)
-- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/nancy_east_fkt_10.geojson)
+- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-NancyEastandChrisFord/East_Ford_FKT_Map) - Daily progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [Cue Sheet](https://docs.google.com/spreadsheets/d/1yewy0VBL8va5r0qMwRLIukVofc1cK5Sm7-bl1nUeyAg/edit?usp=sharing) - Turn-by-turn re-creation of FKT progress in Google Sheets.
+- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/nancy_east_fkt_10.geojson) - For analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
 
 #### Jeff Woody - Supported FKT (July 23 to August 25, 2020)
-- https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-JeffWoody/Woody_FKT_Map
-- https://docs.google.com/spreadsheets/d/1HPTxD4CjjyvsUSpXQSYGiy09mZQhA8TUcZfHRDxbVIM/edit?usp=sharing
-- https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/jeff_woody_fkt_50.geojson
-- https://www.strava.com/athletes/6948035/training/log
+- [Strava GPS Tracking](https://www.strava.com/athletes/6948035/training/log) - Scroll to the week of July 20-26, 2020 for recordings.
+- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-JeffWoody/Woody_FKT_Map) - Daily progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [Cue Sheet](https://docs.google.com/spreadsheets/d/1HPTxD4CjjyvsUSpXQSYGiy09mZQhA8TUcZfHRDxbVIM/edit?usp=sharing) - Turn-by-turn re-creation of FKT progress in Google Sheets.
+- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/jeff_woody_fkt_50.geojson) - For analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
 
 # Efficient Map Completions
 
 #### Matthew Kirk - Great Smoky Postman (December 2019 to October 2020)
-- https://matthewkirk.blogspot.com/2020/10/great-smoky-postman-summary.html
+- [Great Smoky Postman Summary](https://matthewkirk.blogspot.com/2020/10/great-smoky-postman-summary.html) - Blog post from October 28, 2020. Lowest known distance of 906.1 miles.
 
 #### Benny Braden (October to November 2017)
-- https://www.wbir.com/article/news/local/harriman-man-beats-own-record-for-fastest-smoky-mountain-900-mile-hike/51-494652285
+- [WBIR-TV: Harriman man beats own record for fastest Smoky Mountain 900 mile hike](https://www.wbir.com/article/news/local/harriman-man-beats-own-record-for-fastest-smoky-mountain-900-mile-hike/51-494652285)
 
-#### Elizabeth Etnier - Day Hiker’s Guide to All the Trails in the Smoky Mountains (Book)
-- https://public.tableau.com/app/profile/ericallanwest/viz/DayHikersGuidetoAlltheTrailsintheSmokyMountainsEtnier/Etnier_Map
-- https://docs.google.com/spreadsheets/d/1CpX0-61aN38rtjumSJ0_Rv_m-ckZb9kNNl_bq9xX3vU/edit?usp=sharing
-- http://smokymountainshiking.com/
+#### Elizabeth Etnier - Day Hiker's Guide to All the Trails in the Smoky Mountains (Book)
+- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/DayHikersGuidetoAlltheTrailsintheSmokyMountainsEtnier/Etnier_Map) - Hike-by-hike progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [Cue Sheet](https://docs.google.com/spreadsheets/d/1CpX0-61aN38rtjumSJ0_Rv_m-ckZb9kNNl_bq9xX3vU/edit?usp=sharing) - Hike-by-hike re-creation of 900 Miler progress in Google Sheets.
+- [Author's Website](http://smokymountainshiking.com/)
 
 #### Eric West - Circuit (2019-2022)
 - https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map
