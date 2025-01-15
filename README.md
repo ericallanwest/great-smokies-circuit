@@ -6,15 +6,16 @@ Resources for "completing the map" of all official hiking trails in Great Smoky 
 
 #### Nancy East & Chris Ford - Supported FKT (September 4 to October 3, 2020)
 - [Gaia GPS Tracking](https://www.gaiagps.com/datasummary/folder/2fdf7a17-4d4c-4eca-a9fe-225c9c0a42a0/)
-- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-NancyEastandChrisFord/East_Ford_FKT_Map) - Daily progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
-- [Cue Sheet](https://docs.google.com/spreadsheets/d/1yewy0VBL8va5r0qMwRLIukVofc1cK5Sm7-bl1nUeyAg/edit?usp=sharing) - Turn-by-turn re-creation of FKT progress in Google Sheets.
-- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/nancy_east_fkt_10.geojson) - For analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
+- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-NancyEastandChrisFord/East_Ford_FKT_Map) - My analysis of daily progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [Cue Sheet](https://docs.google.com/spreadsheets/d/1yewy0VBL8va5r0qMwRLIukVofc1cK5Sm7-bl1nUeyAg/edit?usp=sharing) - My turn-by-turn re-creation of FKT progress in Google Sheets.
+- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/nancy_east_fkt_10.geojson) - Derived from the Gaia GPS recordings, for analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
+- [Chasing the Smokies Moon](https://www.hopeandfeathertravels.com/order-chasing-the-smokies-moon/) - Nancy East's memoir of the hike.
 
 #### Jeff Woody - Supported FKT (July 23 to August 25, 2020)
 - [Strava GPS Tracking](https://www.strava.com/athletes/6948035/training/log) - Scroll to the week of July 20-26, 2020 for recordings.
-- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-JeffWoody/Woody_FKT_Map) - Daily progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
-- [Cue Sheet](https://docs.google.com/spreadsheets/d/1HPTxD4CjjyvsUSpXQSYGiy09mZQhA8TUcZfHRDxbVIM/edit?usp=sharing) - Turn-by-turn re-creation of FKT progress in Google Sheets.
-- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/jeff_woody_fkt_50.geojson) - For analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
+- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-JeffWoody/Woody_FKT_Map) - My analysis of daily progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [Cue Sheet](https://docs.google.com/spreadsheets/d/1HPTxD4CjjyvsUSpXQSYGiy09mZQhA8TUcZfHRDxbVIM/edit?usp=sharing) - My turn-by-turn re-creation of FKT progress in Google Sheets.
+- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/jeff_woody_fkt_50.geojson) - Derived from the Strava recordings, for analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
 
 # Efficient Map Completions
 
@@ -25,21 +26,21 @@ Resources for "completing the map" of all official hiking trails in Great Smoky 
 - [WBIR-TV: Harriman man beats own record for fastest Smoky Mountain 900 mile hike](https://www.wbir.com/article/news/local/harriman-man-beats-own-record-for-fastest-smoky-mountain-900-mile-hike/51-494652285)
 
 #### Elizabeth Etnier - Day Hiker's Guide to All the Trails in the Smoky Mountains (Book)
-- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/DayHikersGuidetoAlltheTrailsintheSmokyMountainsEtnier/Etnier_Map) - Hike-by-hike progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
-- [Cue Sheet](https://docs.google.com/spreadsheets/d/1CpX0-61aN38rtjumSJ0_Rv_m-ckZb9kNNl_bq9xX3vU/edit?usp=sharing) - Hike-by-hike re-creation of 900 Miler progress in Google Sheets.
+- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/DayHikersGuidetoAlltheTrailsintheSmokyMountainsEtnier/Etnier_Map) - My analysis of hike-by-hike progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [Cue Sheet](https://docs.google.com/spreadsheets/d/1CpX0-61aN38rtjumSJ0_Rv_m-ckZb9kNNl_bq9xX3vU/edit?usp=sharing) - My hike-by-hike re-creation of 900 Miler progress in Google Sheets.
 - [Author's Website](http://smokymountainshiking.com/)
 
-#### Eric West - Circuit (2019-2022)
-- https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map
-- https://docs.google.com/spreadsheets/d/1ACHSmas1CtTb6CJ1RvFlAs-pkRSpCG2Y7gnv6m_B_QA/edit?usp=sharing
-- https://github.com/ericallanwest/great-smokies-circuit/blob/811641e0c99a4b824dcee5040ced33c9f9aac5d4/eric_west_circuit.geojson
-- https://completingthemap.com/
+#### Eric West - Great Smokies Circuit (2019-2022)
+- [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map) - My analysis of daily progress overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [Cue Sheet](https://docs.google.com/spreadsheets/d/1ACHSmas1CtTb6CJ1RvFlAs-pkRSpCG2Y7gnv6m_B_QA/edit?usp=sharing) - My turn-by-turn re-creation 900 Miler progress in Google Sheets.
+- [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/811641e0c99a4b824dcee5040ced33c9f9aac5d4/eric_west_circuit.geojson) - Derived from my Garmin inReach Mini recordings, for analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
+- [completingthemap.com](https://completingthemap.com/) - My forthcoming website with details on attempting a self-supported map completion.
 
 # Datasets & Maps
-- https://smhclub.org/900-Miler-Club
-- https://grsm-nps.opendata.arcgis.com/search?collection=Dataset
-- https://arcg.is/PqW9W
-- https://www.outragegis.com/grsm/
+- [Great Smoky Mountains 900 Miler Club](https://smhclub.org/900-Miler-Club) - Official website.
+- [grsm-nps.opendata.arcgis.com](https://grsm-nps.opendata.arcgis.com/search?collection=Dataset) - Authoritative park datasets provided by the National Park Service.
+- [ArcGIS Online Trail Map](https://arcg.is/PqW9W) - My original creation with ascent/descent data and estimated hiking times ([Tobler's hiking function](https://en.wikipedia.org/wiki/Tobler%27s_hiking_function)) overlaid on [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
+- [outrageGIS Trail PDF Maps](https://www.outragegis.com/grsm/) - Excellent mobile maps for offline use with [Avenza Maps](https://store.avenza.com/pages/app-features).
 - https://store.avenza.com/products/npsusgs-great-smoky-mountains-national-park-2016-topographic-map-bundle-great-smoky-mountains-national-park-map
 
 # Routing / Optimization
@@ -47,4 +48,3 @@ Resources for "completing the map" of all official hiking trails in Great Smoky 
 - https://en.wikipedia.org/wiki/Chinese_postman_problem
 - https://github.com/brooksandrew/postman_problems
 - https://web.archive.org/web/20210514003240/https://www-m9.ma.tum.de/graph-algorithms/directed-chinese-postman/index_en.html
-- https://en.wikipedia.org/wiki/Tobler%27s_hiking_function
