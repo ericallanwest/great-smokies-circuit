@@ -16,16 +16,16 @@ Resources for "completing the map" of all official hiking trails in [Great Smoky
 - [Day Hiker's Guide to All the Trails in the Smoky Mountains](https://smokieslife.org/product/day-hikers-guide-to-all-trails/) - See the Etnier section below for more details.
 
 # Fastest Known Times (FKTs)
-- [GSMNP 900 @ fastestknowntime.com](https://fastestknowntime.com/route/great-smoky-mountains-national-park-900-nc-tn)
+There are two supported map completion FKTs recoginzed at [fastestknowntime.com](https://fastestknowntime.com/route/great-smoky-mountains-national-park-900-nc-tn). A successful self-supported map completion FKT has not yet been reported.
 
-#### Nancy East & Chris Ford - Supported FKT (September 4 to October 3, 2020)
+#### Nancy East & Chris Ford - Supported Mixed-Gender Team FKT (September 4 to October 3, 2020)
 - [Gaia GPS Tracking](https://www.gaiagps.com/datasummary/folder/2fdf7a17-4d4c-4eca-a9fe-225c9c0a42a0/)
 - [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-NancyEastandChrisFord/East_Ford_FKT_Map) - My analysis of daily progress overlaid on the [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
 - [Cue Sheet](https://docs.google.com/spreadsheets/d/1yewy0VBL8va5r0qMwRLIukVofc1cK5Sm7-bl1nUeyAg/edit?usp=sharing) - My turn-by-turn re-creation of FKT progress in Google Sheets.
 - [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/b221bb94da114a0c37bf9da9d766a3713469031b/nancy_east_fkt_10.geojson) - Derived from the Gaia GPS recordings, for analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
 - [Chasing the Smokies Moon](https://www.hopeandfeathertravels.com/order-chasing-the-smokies-moon/) - Nancy East's memoir of the hike, published in October 2021.
 
-#### Jeff Woody - Supported FKT (July 23 to August 25, 2020)
+#### Jeff Woody - Supported Male FKT (July 23 to August 25, 2020)
 - [Strava GPS Tracking](https://www.strava.com/athletes/6948035/training/log) - Scroll to the week of July 20-26, 2020 for recordings.
 - [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerFKT-JeffWoody/Woody_FKT_Map) - My analysis of daily progress overlaid on the [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
 - [Cue Sheet](https://docs.google.com/spreadsheets/d/1HPTxD4CjjyvsUSpXQSYGiy09mZQhA8TUcZfHRDxbVIM/edit?usp=sharing) - My turn-by-turn re-creation of FKT progress in Google Sheets.
