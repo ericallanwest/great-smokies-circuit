@@ -51,7 +51,6 @@ Resources for "completing the map" of all official hiking trails in [Great Smoky
 - [smokymountainshiking.com](http://smokymountainshiking.com/) - The author's website.
 
 # Routing / Optimization
-- https://en.wikipedia.org/wiki/Arc_routing
-- https://en.wikipedia.org/wiki/Chinese_postman_problem
-- https://github.com/brooksandrew/postman_problems
-- https://web.archive.org/web/20210514003240/https://www-m9.ma.tum.de/graph-algorithms/directed-chinese-postman/index_en.html
+- Wikipedia: [Arc Routing](https://en.wikipedia.org/wiki/Arc_routing) and [Chinese Postman Problem](https://en.wikipedia.org/wiki/Chinese_postman_problem).
+- [Postman Problems](https://github.com/brooksandrew/postman_problems) - Python code. I used this to plan my Great Smokies Circuit hike.
+- [The Chinese-Postman-Method](https://web.archive.org/web/20210514003240/https://www-m9.ma.tum.de/graph-algorithms/directed-chinese-postman/index_en.html) - Interactive tutorial that illustrates the algorithm for solving Postman problems.
