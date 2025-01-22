@@ -38,9 +38,6 @@ There are two supported map completion FKTs recoginzed at [fastestknowntime.com]
 - [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GreatSmokyPostmanProject-MatthewKirk/Postman_Map) - My analysis of daily progress overlaid on the [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
 - [Cue Sheet](https://docs.google.com/spreadsheets/d/1BoVFACHH7E4-Aeu7uGRGfXZVoJuAOrNvkz2MQOgcd6k/edit?usp=sharing) - My turn-by-turn re-creation of Postman progress in Google Sheets.
 
-#### Benny Braden (October to November 2017)
-- [Harriman man beats own record for fastest Smoky Mountain 900 mile hike](https://www.wbir.com/article/news/local/harriman-man-beats-own-record-for-fastest-smoky-mountain-900-mile-hike/51-494652285) - Short article from WBIR-TV on November 27, 2017.
-
 #### Eric West - Great Smokies Circuit (2019-2022)
 - [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map) - My analysis of daily progress overlaid on the [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
 - [Cue Sheet](https://docs.google.com/spreadsheets/d/1ACHSmas1CtTb6CJ1RvFlAs-pkRSpCG2Y7gnv6m_B_QA/edit?usp=sharing) - My turn-by-turn re-creation of 900 Miler progress in Google Sheets.
