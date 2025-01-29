@@ -45,6 +45,7 @@ There are two supported map completion FKTs recoginzed at [fastestknowntime.com]
 - [Tableau Visualization](https://public.tableau.com/app/profile/ericallanwest/viz/GSMNP900MilerCircuit-EricWest/West_Circuit_Map) - My analysis of daily progress overlaid on the [$1 Map](https://smokieslife.org/product/backcountry-trail-map/).
 - [Cue Sheet](https://docs.google.com/spreadsheets/d/1ACHSmas1CtTb6CJ1RvFlAs-pkRSpCG2Y7gnv6m_B_QA/edit?usp=sharing) - My turn-by-turn re-creation of 900 Miler progress in Google Sheets.
 - [GeoJSON Point File](https://github.com/ericallanwest/great-smokies-circuit/blob/811641e0c99a4b824dcee5040ced33c9f9aac5d4/eric_west_circuit.geojson) - Derived from my Garmin inReach Mini and phone recordings, for analysis in [QGIS](https://qgis.org/), [Atlas](https://atlas.co/), etc.
+- [Permits](https://github.com/ericallanwest/great-smokies-circuit/blob/bf3dab190c896727578445fd9ba7d9cc24ce2623/eric_west_circuit_permits.pdf) - Permits issued by the Backcountry Office for the entirety of my Circuit hike.
 - [completingthemap.com](https://completingthemap.com/) - My forthcoming website with details on attempting a self-supported map completion.
 
 #### Elizabeth Etnier - Day Hiker's Guide to All the Trails in the Smoky Mountains (Book)
