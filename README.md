@@ -3,7 +3,7 @@ Resources for "completing the map" of all official hiking trails in [Great Smoky
 
 # Datasets & Maps
 - [Great Smoky Mountains 900 Miler Club](https://smhclub.org/900-Miler-Club) - Official website. Includes Excel file with list of required trails. (My [900 Miler Club Hike Log](https://docs.google.com/spreadsheets/d/1bFKnjtmx7KK-NzT_R0nFtAiC-mHu1fw8V2mtac089SI/edit?usp=sharing) in Google Sheets is an attempt at improving the Excel file.)
-- [ArcGIS Online Trail Map](https://arcg.is/PqW9W) - My original creation with ascent/descent data and [estimated hiking times](https://en.wikipedia.org/wiki/Tobler%27s_hiking_function). Trails, roads, and points of interest are overlaid on the current [$1 Map](https://smokieslife.org/product/backcountry-trail-map/) that was georeferenced with [Map Warper](https://mapwarper.net/maps/88180).
+- [ArcGIS Online Trail Map](https://arcg.is/PqW9W) - My original creation with elevation gain/loss data and [estimated hiking times](https://en.wikipedia.org/wiki/Tobler%27s_hiking_function). Trails, roads, and points of interest are overlaid on the current [$1 Map](https://smokieslife.org/product/backcountry-trail-map/) that was georeferenced with [Map Warper](https://mapwarper.net/maps/88180).
   - [lines_20250128.geojson](https://github.com/ericallanwest/great-smokies-circuit/blob/79dc290b6a989a72fe156246690eb05b66af2533/lines_20250128.geojson)
   - [points_20250109.geojson](https://github.com/ericallanwest/great-smokies-circuit/blob/753dd75b4653ce025064fb0ec89667e01fff2ecf/points_20250109.geojson)
   - [dollar_map_20250108.tif](https://github.com/ericallanwest/great-smokies-circuit/blob/753dd75b4653ce025064fb0ec89667e01fff2ecf/dollar_map_20250108.tif)
