@@ -38,7 +38,7 @@ from .mosaic import Mosaic
 from .tiles import REPO
 
 LINES = os.path.join(REPO, "docs", "data", "lines_20250211.geojson")
-EDGES = os.path.join(REPO, "smokies_edge_list_20260509a.csv")
+EDGES = os.path.join(REPO, "solver", "smokies_edge_list_20260509a.csv")
 
 FT_M = 0.3048
 _to_utm = Transformer.from_crs("EPSG:4326", "EPSG:26917", always_xy=True)

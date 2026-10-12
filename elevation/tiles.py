@@ -8,7 +8,7 @@ collapsing them the way a mosaic would.
 
 Sources, in the order this module prefers them:
   1. 3DEP_UTM_17/           tiles already downloaded next to the repo
-  2. the S3 URLs in smokies/gsmnp_1m_elevation_files.csv, read through /vsicurl/
+  2. the S3 URLs in datasets/gsmnp_1m_elevation_files.csv, read through /vsicurl/
 
 All tiles are NAD83 / UTM 17N (EPSG:26917), 1 m, Float32, NoData -999999.
 """
@@ -25,7 +25,7 @@ NODATA = -999999.0
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LOCAL_TILE_DIR = os.path.join(REPO, "3DEP_UTM_17")
-MANIFEST_CSV = os.path.join(REPO, "smokies", "gsmnp_1m_elevation_files.csv")
+MANIFEST_CSV = os.path.join(REPO, "datasets", "gsmnp_1m_elevation_files.csv")
 
 # USGS has shipped 1 m tiles under two naming conventions; both encode the same
 # thing: UTM zone, tile easting/northing in units of 10 km, and project name.
