@@ -9,8 +9,8 @@ An interactive map that displays pre-solved thru-hiking itineraries covering eve
 # Datasets & Maps
 - [Great Smoky Mountains 900 Miler Club](https://smhclub.org/900-Miler-Club) - Official website. Includes Excel file with list of required trails. (My [900 Miler Club Hike Log](https://docs.google.com/spreadsheets/d/1bFKnjtmx7KK-NzT_R0nFtAiC-mHu1fw8V2mtac089SI/edit?usp=sharing) in Google Sheets is an attempt at improving the Excel file.)
 - [ArcGIS Online Trail Map](https://arcg.is/PqW9W) - My original creation with elevation gain/loss data and [estimated hiking times](https://en.wikipedia.org/wiki/Tobler%27s_hiking_function). Trails, roads, and points of interest are overlaid on the current [$1 Map](https://smokieslife.org/product/backcountry-trail-map/) that was georeferenced with [Map Warper](https://mapwarper.net/maps/88180).
-  - [lines_20250211.geojson](docs/data/lines_20250211.geojson)
-  - [points_20250211.geojson](docs/data/points_20250211.geojson)
+  - [lines_20250211.geojson](datasets/lines_20250211.geojson)
+  - [points_20250211.geojson](datasets/points_20250211.geojson)
   - [dollar_map_20250108.tif](datasets/dollar_map_20250108.tif)
   - [elevation_20250212.tif](datasets/elevation_20250212.tif) - Derived from [USGS 3DEP](https://www.usgs.gov/3d-elevation-program/about-3dep-products-services) [1-meter Standard DEMs](datasets/gsmnp_1m_elevation_files.csv).
 - [outrageGIS Trail PDF Maps](https://www.outragegis.com/grsm/) - Excellent maps for offline use with [Avenza Maps](https://store.avenza.com/pages/app-features) app. I relied on these maps heavily for identifying likely water sources during my circuit hike.
