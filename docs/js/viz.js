@@ -1166,7 +1166,7 @@ function buildCsv() {
   if (_shownEnds.end)   meta.push(['Finish pinned', nodeName(_shownEnds.end)]);
   meta.push(['Day 1', dayDate(1)]);
   meta.push(['Generated', new Date().toISOString()]);
-  meta.push(['Source', 'https://ericallanwest.github.io/smokies/']);
+  meta.push(['Source', 'https://ericallanwest.github.io/great-smokies-circuit/']);
 
   // Nights first: this is the section that gets typed into a permit.  The last
   // day ends at a trailhead, not a campsite, so it is not a night.  Under
