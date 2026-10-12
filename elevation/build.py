@@ -38,7 +38,7 @@ from .tiles import REPO
 from .tobler import DEFAULT as TOBLER
 
 OUT_DEFAULT = os.path.join(REPO, "docs", "data", "segment_profiles.json")
-EDGES = os.path.join(REPO, "smokies_edge_list_20260509a.csv")
+EDGES = os.path.join(REPO, "solver", "smokies_edge_list_20260509a.csv")
 
 BIN_WIDTH = 0.01           # 1% slope bins
 
@@ -160,9 +160,9 @@ def main() -> int:
         "provenance": {
             "dem": "USGS 3DEP 1 m, NAD83 / UTM 17N (EPSG:26917), NAVD88 metres",
             "tile_priority": PRIORITY,
-            "tile_manifest": "smokies/gsmnp_1m_elevation_files.csv",
+            "tile_manifest": "datasets/gsmnp_1m_elevation_files.csv",
             "manifest_sha256": hashlib.sha256(
-                open(os.path.join(REPO, "smokies", "gsmnp_1m_elevation_files.csv"),
+                open(os.path.join(REPO, "datasets", "gsmnp_1m_elevation_files.csv"),
                      "rb").read()).hexdigest()[:16],
             "geometry": "docs/data/lines_20250211.geojson (native vertices, no densification)",
             "sampling": "bilinear",

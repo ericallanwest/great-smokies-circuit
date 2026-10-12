@@ -30,13 +30,9 @@ from .tiles import REPO
 
 POINT_FILES = [
     os.path.join(REPO, "docs", "data", "points_20250211.geojson"),
-    os.path.join(REPO, "smokies", "docs", "data", "points_20250211.geojson"),
-    os.path.join(REPO, "smokies", "points_20250211.geojson"),
-    os.path.join(REPO, "points_20250211.geojson"),
 ]
 EDGES = [
-    os.path.join(REPO, "smokies_edge_list_20260509a.csv"),
-    os.path.join(REPO, "smokies", "solver", "smokies_edge_list_20260509a.csv"),
+    os.path.join(REPO, "solver", "smokies_edge_list_20260509a.csv"),
 ]
 
 
