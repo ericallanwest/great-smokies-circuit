@@ -2,7 +2,7 @@
 Resources for "completing the map" of all official hiking trails in [Great Smoky Mountains National Park](https://www.nps.gov/grsm/).
 
 # Itinerary Planner Web App
-**[Launch the app →](https://ericallanwest.github.io/smokies/)**
+**[Launch the app →](https://ericallanwest.github.io/great-smokies-circuit/)**
 
 An interactive map that displays pre-solved thru-hiking itineraries covering every official trail in the park as a single continuous walk. Choose a maximum hiking day (hours) and an open or closed circuit, then step through the itinerary day by day — each day shows required mileage, backtracking, elevation gain, and the route to that night's campsite or shelter. Itineraries are computed by a [Rural Windy Postman solver](solver/) that assigns an optimal traversal direction to every trail segment with OR-Tools CP-SAT and splits the resulting circuit into legal hiking days (overnights only at backcountry campsites, shelters, and campgrounds). See the [solver README](solver/README.md) for the full formulation and pipeline.
 
